@@ -42,7 +42,7 @@
    http://localhost:5000/api/auth/register
    ```
 
-*** payload ***
+6. *** payload ***
 
     ```
         {
@@ -57,7 +57,7 @@
     http://localhost:5000/api/auth/login
     ```
 
-*** payload ***
+7. *** payload ***
 
     ```
         {
