@@ -38,22 +38,30 @@
 
 5. ### requests
 
-http://localhost:5000/api/auth/register
+   ```
+   http://localhost:5000/api/auth/register
+   ```
 
-### payload
+**_ payload _**
 
-{
-"email": "emaple@example.com",
-"password": "password123",
-"first_name": "Example",
-"last_name": "Example"
-}
+    ```
+        {
+        "email": "emaple@example.com",
+        "password": "password123",
+        "first_name": "Example",
+        "last_name": "Example"
+        }
+    ```
 
-http://localhost:5000/api/auth/login
+    ```
+    http://localhost:5000/api/auth/login
+    ```
 
-### payload
+**_ payload _**
 
-{
-"email": "emaple@example.com",
-"password": "password123",
-}
+    ```
+        {
+        "email": "emaple@example.com",
+        "password": "password123",
+        }
+    ```
