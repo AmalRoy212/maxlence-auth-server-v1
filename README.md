@@ -36,7 +36,7 @@
    Server is running on http://localhost:5000
    ```
 
-### requests
+5. ### requests
 
 http://localhost:5000/api/auth/register
 
